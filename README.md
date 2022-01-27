@@ -13,8 +13,26 @@ I have designed the web application using React and React Bootstrap libraries. T
 ## Getting Started
 To run this app, 
 
+Clone this repository
+
+```sh
+git clone https://github.com/GauthamBellamkonda/DigitRecognizer.git
+```
+
+Install node packages/dependencies
+
+```sh
+npm install
+```
+
+Run this app
+
+```sh
+npm run start
+```
+
 ### TO DO
-- [ ] Write a decent README
+- [x] Write a decent README
 - [ ] Cleanup/Refactor code
 - [ ] WIP: Improve the model
   - [ ] Use TensorBoard to monitor the accuracy/results of the model
