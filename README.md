@@ -15,23 +15,23 @@ I have designed the web application using React and React Bootstrap libraries. T
 ## Getting Started
 To run this app, 
 
-Clone this repository
+ - Clone this repository
 
-```sh
-git clone https://github.com/GauthamBellamkonda/DigitRecognizer.git
-```
+    ```sh
+    git clone https://github.com/GauthamBellamkonda/DigitRecognizer.git
+    ```
 
-Install node packages/dependencies
+ - Install node packages/dependencies
 
-```sh
-npm install
-```
+    ```sh
+    npm install
+    ```
 
-Run this app
+ - Run this app
 
-```sh
-npm run start
-```
+    ```sh
+    npm run start
+    ```
 
 ### TO DO
 - [x] Write a decent README
