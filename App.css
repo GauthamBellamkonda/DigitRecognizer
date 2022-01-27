@@ -1,0 +1,16 @@
+.navbar {
+    font-size: 9vw;
+}
+
+@media screen and (max-width: 400px){
+    .navbar {
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 600px){
+    .navbar {
+        font-size: 55px;
+    }
+}
+
