@@ -30,6 +30,7 @@ To run this app,
 
 ### TO DO
 - [x] Write a decent README
+- [ ] Make a chart of predictions
 - [ ] Cleanup/Refactor code
 - [ ] WIP: Improve the model
   - [ ] Use TensorBoard to monitor the accuracy/results of the model
